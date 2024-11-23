@@ -24,14 +24,14 @@ header p {
   font-style: italic;
 }
 
-.constellation-list {
+.galaxy-list {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
 }
 
-.constellation {
+.galaxy {
   background-color: #012a4a;
   margin: 15px;
   padding: 20px;
@@ -42,13 +42,13 @@ header p {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
 }
 
-.constellation h2 {
+.galaxy h2 {
   font-size: 1.8em;
   color: #ffd700;
   margin-bottom: 10px;
 }
 
-.constellation p {
+.galaxy p {
   font-size: 1.2em;
   line-height: 1.6;
 }

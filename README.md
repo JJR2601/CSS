@@ -1,1 +1,1 @@
-"# CSS" 
+Discovered Galaxies
